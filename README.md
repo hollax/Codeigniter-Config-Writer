@@ -1,5 +1,5 @@
 # Codeigniter-Config-Writer
-Permanently update config values using https://github.com/hollax/ArrayConfigWriter library
+Permanently update config values using [this library here](https://github.com/hollax/ArrayConfigWriter)
 
 watch video here [here](https://www.youtube.com/watch?v=5pEjs3cyDec&feature=youtu.be)
 ## STEPS
